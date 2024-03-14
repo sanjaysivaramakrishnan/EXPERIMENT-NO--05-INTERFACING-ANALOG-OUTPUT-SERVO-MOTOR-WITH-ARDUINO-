@@ -115,6 +115,8 @@ void loop()
   
 }
 ~~~
+### SERIAL MONITOR
+![image](https://github.com/sanjaysivaramakrishnan/EXPERIMENT-NO--05-INTERFACING-ANALOG-OUTPUT-SERVO-MOTOR-WITH-ARDUINO-/assets/151629616/d703eecb-0c51-4a3a-abbb-383fcd7ae521)
 
 
 
